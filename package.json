@@ -1,0 +1,33 @@
+{
+  "name": "resumaker",
+  "version": "1.0.0",
+  "description": "Build a professional looking resume in minutes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulphurgfx/ResuMaker.git"
+  },
+  "keywords": [
+    "Resume",
+    "Resume-Generator",
+    "Resume-Builder",
+    "CV",
+    "CV-Builder"
+  ],
+  "author": "Jatin Parab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulphurgfx/ResuMaker/issues"
+  },
+  "homepage": "https://github.com/sulphurgfx/ResuMaker#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2",
+    "nodemon": "^1.18.9"
+  }
+}
