@@ -1,4 +1,4 @@
-const express = require('express');
+ajjajajconst express = require('express');
 const router = express.Router();
 
 router.get('/data',(req,res,next)=>{
