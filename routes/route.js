@@ -6,7 +6,7 @@ router.get('/data',(req,res,next)=>{
 });
 
 router.post('/add',(req,res,next)=>{
-    res.send('Adding data');
+    res.send('Adding d');
 });
 
 router.delete('/delete/:id',(req,res,next)=>{
